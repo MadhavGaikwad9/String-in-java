@@ -1,10 +1,10 @@
-# 🔤 Java Strings Practice — From Basics to Advanced
+#  Java Strings Practice — From Basics to Advanced
 
 This repository contains a comprehensive collection of Java String problems that I have solved through hands-on practice. It covers fundamental operations, problem-solving techniques, and interview-level questions.
 
 ---
 
-## 🚀 What I Learned
+# What I Learned
 
 - String creation and immutability
 - String methods and operations
@@ -35,7 +35,7 @@ This repository contains a comprehensive collection of Java String problems that
 
 ---
 
-## 💻 Technologies Used
+# Technologies Used
 
 - Java
 - VS Code / IntelliJ IDEA
@@ -55,7 +55,7 @@ java-strings-practice/
 
 ---
 
-## 🎯 Purpose of This Repository
+# Purpose of This Repository
 
 - Strengthen problem-solving skills
 - Prepare for coding interviews
