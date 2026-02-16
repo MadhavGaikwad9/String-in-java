@@ -22,7 +22,6 @@ This repository contains a comprehensive collection of Java String problems that
 - Palindrome check
 - Anagram check
 - Count vowels and consonants
-- Remove duplicates
 - Character frequency
 - Substring problems
 - String comparison
@@ -31,6 +30,8 @@ This repository contains a comprehensive collection of Java String problems that
 - Longest substring problems
 - Pattern searching
 - String sorting
+- SHORTEST PATH PROBLEM AMAZON,FLIPKART
+- CONVERTING EACH FIRST LETTER OF EACH WORD TO UPPERCASE
 
 ---
 
