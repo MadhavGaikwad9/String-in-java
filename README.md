@@ -67,12 +67,7 @@ java-strings-practice/
 ## 📌 How to Run
 
 1. Clone the repository
-
-git clone https://github.com/your-username/java-strings-practice.git
-
-
 2. Compile and run any file
-
 javac FileName.java
 java FileName
 
