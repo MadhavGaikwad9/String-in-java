@@ -82,6 +82,6 @@ java FileName
 
 ## 🙋‍♂️ Author
 
-**Your Name**
+**Madhav Gaikwad**
 
 If you found this repository helpful, give it a ⭐
